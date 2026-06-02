@@ -243,8 +243,8 @@ export default function PortfolioSantiagoQuiroga() {
 
           <p className="text-slate-300 text-lg leading-relaxed max-w-4xl">
             Soy estudiante de la Licenciatura en Sistemas de Información y me apasiona el desarrollo de software y la resolución de problemas mediante la tecnología. Durante mi formación académica he adquirido conocimientos en Programación Orientada a Objetos, estructuras de datos, bases de datos relacionales, desarrollo web y paradigmas de programación, participando en diversos proyectos que me permitieron aplicar estos conceptos de manera práctica.  
-            <br></br>Actualmente continúo ampliando mis conocimientos en tecnologías frontend y full stack, trabajando principalmente con React, JavaScript, Python y PostgreSQL. Me interesa especialmente el desarrollo de aplicaciones web modernas, la creación de interfaces intuitivas y el diseño de soluciones que aporten valor a los usuarios.
-            Me considero una persona responsable, con capacidad de aprendizaje constante y gran interés por enfrentar nuevos desafíos. Mi objetivo es incorporarme al ámbito profesional para seguir desarrollando experiencia, contribuir en proyectos reales y continuar creciendo dentro de la industria tecnológica.
+            <p>Actualmente continúo ampliando mis conocimientos en tecnologías frontend y full stack, trabajando principalmente con React, JavaScript, Python y PostgreSQL. Me interesa especialmente el desarrollo de aplicaciones web modernas, la creación de interfaces intuitivas y el diseño de soluciones que aporten valor a los usuarios.</p>
+            <p>Me considero una persona responsable, con capacidad de aprendizaje constante y gran interés por enfrentar nuevos desafíos. Mi objetivo es incorporarme al ámbito profesional para seguir desarrollando experiencia, contribuir en proyectos reales y continuar creciendo dentro de la industria tecnológica.</p>
           </p>
         </motion.div>
       </section>
