@@ -145,14 +145,7 @@ export default function PortfolioSantiagoQuiroga() {
           </p>
 
           <p className="text-slate-400 max-w-3xl mx-auto mt-6 text-lg leading-relaxed">
-            Soy estudiante de la Licenciatura en Sistemas de Información en la 
-            Universidad Nacional de San Juan. Me interesa el desarrollo web y el desarrollo 
-            de software utilizando tecnologías como React, JavaScript, Python y PostgreSQL. 
-            A lo largo de mi formación académica he desarrollado proyectos aplicando 
-            Programación Orientada a Objetos, estructuras de datos, bases de datos relacionales 
-            y metodologías ágiles. Actualmente continúo ampliando mis conocimientos en 
-            desarrollo Full Stack mientras construyo proyectos personales para fortalecer mi 
-            experiencia práctica.
+            Estudiante de Licenciatura en Sistemas de Información con interés en el desarrollo web y de software. Me especializo en tecnologías como React, JavaScript, Python y PostgreSQL, desarrollando proyectos académicos y personales para fortalecer mis habilidades y crecer profesionalmente en el área IT.
           </p>
 
           {/* Buttons */}
@@ -249,11 +242,11 @@ export default function PortfolioSantiagoQuiroga() {
           </h2>
 
           <p className="text-slate-300 text-lg leading-relaxed max-w-4xl">
-            Me interesa el desarrollo web y la creación de interfaces modernas,
-            dinámicas y funcionales. Actualmente continúo formándome en
-            tecnologías frontend y fullstack mientras desarrollo proyectos
-            personales y académicos para seguir creciendo profesionalmente
-            dentro del área IT.
+            Soy estudiante de la Licenciatura en Sistemas de Información y me apasiona el desarrollo de software y la resolución de problemas mediante la tecnología. Durante mi formación académica he adquirido conocimientos en Programación Orientada a Objetos, estructuras de datos, bases de datos relacionales, desarrollo web y paradigmas de programación, participando en diversos proyectos que me permitieron aplicar estos conceptos de manera práctica.
+
+Actualmente continúo ampliando mis conocimientos en tecnologías frontend y full stack, trabajando principalmente con React, JavaScript, Python y PostgreSQL. Me interesa especialmente el desarrollo de aplicaciones web modernas, la creación de interfaces intuitivas y el diseño de soluciones que aporten valor a los usuarios.
+
+Me considero una persona responsable, con capacidad de aprendizaje constante y gran interés por enfrentar nuevos desafíos. Mi objetivo es incorporarme al ámbito profesional para seguir desarrollando experiencia, contribuir en proyectos reales y continuar creciendo dentro de la industria tecnológica.
           </p>
         </motion.div>
       </section>
