@@ -145,11 +145,14 @@ export default function PortfolioSantiagoQuiroga() {
           </p>
 
           <p className="text-slate-400 max-w-3xl mx-auto mt-6 text-lg leading-relaxed">
-            Me interesa el desarrollo web y la creación de interfaces modernas,
-            dinámicas y funcionales. Actualmente continúo formándome en
-            tecnologías frontend y fullstack mientras desarrollo proyectos
-            personales y académicos para seguir creciendo profesionalmente
-            dentro del área IT.
+            Soy estudiante de la Licenciatura en Sistemas de Información en la 
+            Universidad Nacional de San Juan. Me interesa el desarrollo web y el desarrollo 
+            de software utilizando tecnologías como React, JavaScript, Python y PostgreSQL. 
+            A lo largo de mi formación académica he desarrollado proyectos aplicando 
+            Programación Orientada a Objetos, estructuras de datos, bases de datos relacionales 
+            y metodologías ágiles. Actualmente continúo ampliando mis conocimientos en 
+            desarrollo Full Stack mientras construyo proyectos personales para fortalecer mi 
+            experiencia práctica.
           </p>
 
           {/* Buttons */}
