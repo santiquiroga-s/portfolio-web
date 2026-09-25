@@ -486,7 +486,7 @@ export default function PortfolioSantiagoQuiroga() {
                 <br />
                 SOLUCIONES DIGITALES
                 <br />
-                <span>FUNCIONALES.</span>
+                <span>FUNCIONALES</span>
               </motion.h1>
 
               <motion.div
@@ -948,7 +948,7 @@ export default function PortfolioSantiagoQuiroga() {
                     })
                 }
               >
-                HABLEMOS.
+                HABLEMOS
                 <ArrowDown />
               </button>
 

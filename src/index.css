@@ -406,10 +406,10 @@ img {
 .hero-topline {
   display: flex;
   justify-content: flex-start;
-  color: var(--text-soft);
-  font-size: 17px;
+  color: var(--text);
+  font-size: clamp(28px, 3.2vw, 46px);
   font-weight: 650;
-  letter-spacing: -0.02em;
+  letter-spacing: -0.045em;
 }
 
 .hero-content {
@@ -421,11 +421,11 @@ img {
 }
 
 .hero-content h1 {
-  max-width: 1180px;
+  max-width: 1100px;
   margin: 0;
-  font-size: clamp(58px, 8.3vw, 132px);
-  line-height: 0.88;
-  letter-spacing: -0.075em;
+  font-size: clamp(52px, 7.2vw, 112px);
+  line-height: 0.9;
+  letter-spacing: -0.07em;
   font-weight: 650;
 }
 
