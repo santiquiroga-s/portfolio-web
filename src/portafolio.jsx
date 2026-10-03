@@ -29,7 +29,7 @@ const technologies = [
       { name: 'Node.js', icon: '/icons/nodejs.svg' },
       { name: 'Python', icon: '/icons/python.svg' },
       { name: 'PostgreSQL', icon: '/icons/postgresql.svg' },
-      { name: 'Supabase', textIcon: 'S' },
+      { name: 'Supabase', icon: '/icons/supabase.svg' },
     ],
   },
   {

@@ -973,7 +973,7 @@ img {
 .technology-column h3 {
   margin: 0 0 35px;
   color: var(--text-muted);
-  font-size: 10px;
+  font-size: 12px;
   font-weight: 750;
   letter-spacing: 0.13em;
   text-transform: uppercase;
@@ -1023,6 +1023,20 @@ img {
   color: var(--accent);
   font-size: 10px;
   font-weight: 800;
+}
+
+.technology-item:last-child .technology-icon span {
+  color: #ffffff;
+  font-size: 22px;
+  line-height: 1;
+}
+
+.technology-icon img[src*="github"] {
+  filter: invert(1);
+}
+
+.technology-icon span:has(+ *) {
+  color: inherit;
 }
 
 .technology-arrow {
