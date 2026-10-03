@@ -958,7 +958,7 @@ export default function PortfolioSantiagoQuiroga() {
               </p>
 
               <a
-                href="/CV_Santiago_Quiroga.pdf"
+                href="/CV_Quiroga_Santiago.pdf"
                 download
                 className="contact-cv"
               >
@@ -968,7 +968,7 @@ export default function PortfolioSantiagoQuiroga() {
 
               <div className="contact-links">
                 <a
-                  href="mailto:santquiroga10@gmail.com?subject=Contacto%20desde%20Portfolio"
+                  href="mailto:santquiroga10@gmail.com?subject=Contacto%20desde%20Portfolio&body=Hola%20Santiago%2C%0A%0AVi%20tu%20portfolio%20y%20me%20gustar%C3%ADa%20contactarte%20para%20conversar%20sobre%20un%20proyecto.%0A%0ASaludos."
                 >
                   Email <ArrowUpRight size={15} />
                 </a>
@@ -990,7 +990,7 @@ export default function PortfolioSantiagoQuiroga() {
                 </a>
 
                 <a
-                  href="https://wa.me/542646236375"
+                  href="https://wa.me/542646236375?text=Hola%20Santiago%2C%20vi%20tu%20portfolio%20y%20me%20gustar%C3%ADa%20contactarte%20para%20conversar%20sobre%20un%20proyecto."
                   target="_blank"
                   rel="noreferrer"
                 >
